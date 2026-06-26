@@ -64,15 +64,15 @@ This dashboard was created to automate that process by providing a clear, visual
 
 ### Dashboard
 
-*(Add screenshot here)*
+![Dashboard](music-grading-dashboard.PNG)
 
 ### Assignment Tracker
 
-*(Add screenshot here)*
+![Assignment Tracker](music-grading-assignments.PNG)
 
 ### Instructor Settings
 
-*(Add screenshot here)*
+![Instructor Settings](music-grading-instructor-settings.PNG)
 
 ---
 
